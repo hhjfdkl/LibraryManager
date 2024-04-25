@@ -1,0 +1,8 @@
+Design a Library Management System
+● Task: Design a system to manage a library's collection of books,
+including functionalities like adding new books, checking out books, and
+returning books.
+● Constraints: Consider how to handle multiple copies of the same book,
+user accounts, and overdue book notifications.
+● Deliverable: Present your class diagram and discuss how you handle
+book availability and user interactions
